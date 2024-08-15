@@ -88,7 +88,7 @@ In the rapidly evolving world of technology, tools like DALL·E 2, OpenAI, and C
 
 1. **Clone the repository:**
     ```bash
-   https://github.com/Khushavant21/AI_Image_Generator.git
+   git clone https://github.com/Khushavant21/AI_Image_Generator.git
     ```
 
 2. **Change directory to server and start the backend server:**
