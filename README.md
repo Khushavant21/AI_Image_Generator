@@ -110,4 +110,6 @@ Check out the demo on YouTube to see how the application works:
 - [Watch Demo 2](https://www.youtube.com/watch?v=jtpgGfMI19I)
 
 ## Thanks for Visiting
-
+```bash
+    Anything required meg me on my Gmail: khushawantwagh2002@gmail.com
+    ```
