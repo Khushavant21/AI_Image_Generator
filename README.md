@@ -105,7 +105,7 @@ In the rapidly evolving world of technology, tools like DALL·E 2, OpenAI, and C
 
 ## Watch the Demo
 
-Check out the demo on YouTube to see how the application works:
+Check out this demo to learn how to use Cloudinary.
 - [Watch Demo 1](https://www.youtube.com/watch?v=ok9mHOuvVSI)
 - [Watch Demo 2](https://www.youtube.com/watch?v=jtpgGfMI19I)
 
